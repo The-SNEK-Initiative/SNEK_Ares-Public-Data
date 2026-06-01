@@ -1,6 +1,11 @@
 # SNEK_Ares-Public-Data
 Research materials regarding the SNEK Ares project that we decide to disclose to the public.
 
+## What is SNEK Ares??
+
+Ares - Autonomous, Remote, Evaluatory, Succesionist missile defense system, it is a 64 bit NASM trajectory prediction system for missile guidance and targeting. Created by us to be something to outlast hardware shortages and capable of running on tiny amounts of resources, the .img itself fitting in 64kb and capable of running on almost any legacy hardware with a bios. Currently a closed source project, however we are willing and planning on releasing a bunch of the software we develop along with it, all falling under the same [LICENSE](https://github.com/The-SNEK-Initiative/SNEK_Ares-Public-Data/blob/main/LICENSE). 
+
+# Data in this repo:
 
 ## [ares_hwsim.py](https://github.com/The-SNEK-Initiative/SNEK_Ares-Public-Data/blob/main/ares_hwsim.py)
 
